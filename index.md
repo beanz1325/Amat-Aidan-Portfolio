@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/CBUm period 4?raw=true"/>
+<img src="imagesCBUm period 4.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
