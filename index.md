@@ -16,7 +16,8 @@
 <img src="images/JuiceWLRD_DeathRaceForLove.jpg?raw=true"/>
 
 ---
-
+[Project 3 Title](http://example.com/)
+<img src="Untitled.png?raw=true"/>?raw=true"/>
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
