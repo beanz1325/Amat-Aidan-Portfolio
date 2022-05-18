@@ -22,6 +22,9 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/31367.jpg?raw=true"/>?raw=true"/>
+---
+[Project 3 Title](http://example.com/)
+<img src="images/photo-1603904658695-5c3940f7e266.jpg?raw=true"/>?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
