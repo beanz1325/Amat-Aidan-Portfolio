@@ -19,6 +19,9 @@
 [Project 3 Title](http://example.com/)
 <img src="images/Untitled.png?raw=true"/>?raw=true"/>
 ### Category Name 2
+---
+[Project 3 Title](http://example.com/)
+<img src="images/31367.jpg?raw=true"/>?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
