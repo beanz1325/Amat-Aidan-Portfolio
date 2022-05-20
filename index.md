@@ -30,7 +30,7 @@
 <img src="images/Boxing-Mayweather-vs-McGregor-World-Tour.jpg?raw=true"/>?raw=true"/>
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/vinatge.png/?raw=true"/>?raw=true"/>
+<img src="images/vinatge.png?raw=true"/>?raw=true"/>
 
 
 - [Project 1 Title](http://example.com/)
